@@ -6,7 +6,6 @@ I turn ideas into responsive, user-friendly websites, with a focus on clean code
 - 💼 Web Developer at **Digital Nova**
 - 🎓 Studying for a Professional Bachelor's in **Cybersecurity, Cloud Computing & AI** at **ENSAM Casablanca**
 - 🤖 I use AI tools like Claude to build faster
-- 📫 Open to freelance projects and collaborations
 
 ### 🛠️ Tech stack
 ![Tech stack](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,laravel,mysql,supabase,github,notion)
@@ -14,9 +13,9 @@ I turn ideas into responsive, user-friendly websites, with a focus on clean code
 ### 🚀 Featured projects
 | Project | Description | Tech |
 |---|---|---|
-| [**Fashee**](https://fashee.netlify.app/) | Fashion e-commerce website | React |
-| [**Imane Magada**](https://imanemagada.netlify.app/) | Personal website built for a client | React |
-| [**Yummy**](https://yummyprj.netlify.app/) | Restaurant website with menu, events and table booking | Bootstrap |
+| [**Fashee**](https://fashee.netlify.app/) | Fashion e-commerce website
+| [**Imane Magada**](https://imanemagada.netlify.app/) | Personal website built for a client
+| [**Yummy**](https://yummyprj.netlify.app/) | Restaurant website with menu, events and table booking
 
 ### 💼 Experience
 | When | What |
