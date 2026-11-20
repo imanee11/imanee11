@@ -11,11 +11,11 @@ I turn ideas into responsive, user-friendly websites, with a focus on clean code
 ![Tech stack](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,laravel,mysql,supabase,github,notion)
 
 ### 🚀 Featured projects
-| Project | Description | Tech |
-|---|---|---|
-| [**Fashee**](https://fashee.netlify.app/) | Fashion e-commerce website
-| [**Imane Magada**](https://imanemagada.netlify.app/) | Personal website built for a client
-| [**Yummy**](https://yummyprj.netlify.app/) | Restaurant website with menu, events and table booking
+| Project | Description|
+|---|---|
+| [**Fashee**](https://fashee.netlify.app/) | Fashion e-commerce website |
+| [**Imane Magada**](https://imanemagada.netlify.app/) | Personal website built for a client |
+| [**Yummy**](https://yummyprj.netlify.app/) | Restaurant website with menu, events and table booking |
 
 ### 💼 Experience
 | When | What |
